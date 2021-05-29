@@ -1,0 +1,1 @@
+./gas -o scala.herominers.com:10131 -u SvjazzGJDH3hyWFEFsgzNV6tqgNZAcJmCT4hCbyBwSjrJGm48C3wc6a2Fe95tBaV3mAKBmhQtZqgGM8kxoY1b9mB1iprzy6Ta -p gelar -a panthera -t2
